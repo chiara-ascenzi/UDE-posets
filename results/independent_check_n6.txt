@@ -1,0 +1,6 @@
+n=1 posets=1 connected=1  Ladkani-classes(connected)=1  distinct Coxeter polys(connected)=1
+n=2 posets=2 connected=1  Ladkani-classes(connected)=1  distinct Coxeter polys(connected)=1
+n=3 posets=5 connected=3  Ladkani-classes(connected)=1  distinct Coxeter polys(connected)=1
+n=4 posets=16 connected=10  Ladkani-classes(connected)=3  distinct Coxeter polys(connected)=3
+n=5 posets=63 connected=44  Ladkani-classes(connected)=6  distinct Coxeter polys(connected)=6
+n=6 posets=318 connected=238  Ladkani-classes(connected)=23  distinct Coxeter polys(connected)=21

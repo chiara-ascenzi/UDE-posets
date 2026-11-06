@@ -1,0 +1,34 @@
+
+=== Lemma 3.5 (duality)
+    claim: if P = A|_|B is admissible, then (P^-)^op = A|_|B is admissible, with the same M(a), and its negative poset is P^op
+    verified on 17210 admissible cuts (n <= 7)
+
+=== Section 5.3 (six elements)
+    claim: for connected posets with 6 elements, (Coxeter polynomial, Betti numbers, SNF(C+C^T)) takes 22 values; exactly one of them occurs in two ~_L-classes, namely alpha (3 posets) and beta (10 posets)
+    signatures: 22 ; ~_L classes: 23 ; signatures with several ~_L classes: 1
+    alpha: 3 posets, Coxeter [1, 0, -2, -3, -2, 0, 1], Betti [1, 1]
+        covers [[0, 4], [0, 5], [1, 2], [1, 3], [2, 4], [2, 5], [3, 4]]
+        covers [[0, 2], [0, 3], [1, 3], [1, 5], [2, 4], [2, 5], [3, 4]]
+        covers [[0, 2], [0, 3], [0, 4], [1, 2], [1, 3], [3, 5], [4, 5]]
+    beta: 10 posets, Coxeter [1, 0, -2, -3, -2, 0, 1], Betti [1, 1]
+        covers [[0, 3], [0, 5], [1, 5], [2, 3], [2, 4], [4, 5]]
+        covers [[0, 3], [0, 5], [1, 3], [2, 3], [2, 4], [4, 5]]
+        covers [[0, 2], [1, 3], [1, 5], [2, 4], [2, 5], [3, 4]]
+        covers [[0, 3], [0, 5], [1, 4], [2, 3], [2, 4], [4, 5]]
+        covers [[0, 3], [0, 5], [1, 2], [2, 3], [2, 4], [4, 5]]
+        covers [[0, 2], [0, 3], [1, 2], [1, 5], [2, 4], [3, 5]]
+        covers [[0, 2], [0, 4], [1, 2], [1, 3], [3, 4], [4, 5]]
+        covers [[0, 2], [0, 3], [0, 5], [1, 2], [1, 4], [4, 5]]
+        covers [[0, 2], [0, 4], [1, 2], [1, 3], [3, 4], [3, 5]]
+        covers [[0, 2], [0, 5], [1, 2], [1, 3], [1, 4], [4, 5]]
+
+=== Appendix A.2: classes 6.6 and 6.20
+    claim: same Coxeter polynomial (t^4-1)(t^2-1) and Betti numbers, SNF(C+C^T) = (1,1,1,1,6,0) for 6.6 and (1,1,1,1,4,0) for 6.20
+    class 6.20 Coxeter (t - 1)**2*(t + 1)**2*(t**2 + 1), Betti [1, 1], SNF (own) (1, 1, 1, 1, 4, 0), SNF (sympy, up to order) (1, 1, 1, 1, 4, 0)
+    class 6.6  Coxeter (t - 1)**2*(t + 1)**2*(t**2 + 1), Betti [1, 1], SNF (own) (1, 1, 1, 1, 6, 0), SNF (sympy, up to order) (1, 1, 1, 1, 6, 0)
+
+=== Example 4.7
+    claim: the orientation 0,1 < 2 < 3 of D4 with A = {0,1,2}, B = {3} is admissible and P^- is the commutative square I2 x I2
+    covers of P^-: [(0, 2), (1, 2), (3, 0), (3, 1)]  (isomorphic to I2 x I2)
+
+all extra checks passed

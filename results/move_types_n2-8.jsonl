@@ -1,0 +1,7 @@
+{"n": 2, "connected": 1, "classes_CLICK": 1, "classes_SING": 1, "classes_CLICK_OR_SING": 1, "classes_ALL": 1}
+{"n": 3, "connected": 3, "classes_CLICK": 1, "classes_SING": 1, "classes_CLICK_OR_SING": 1, "classes_ALL": 1}
+{"n": 4, "connected": 10, "classes_CLICK": 3, "classes_SING": 3, "classes_CLICK_OR_SING": 3, "classes_ALL": 3}
+{"n": 5, "connected": 44, "classes_CLICK": 10, "classes_SING": 8, "classes_CLICK_OR_SING": 8, "classes_ALL": 6}
+{"n": 6, "connected": 238, "classes_CLICK": 46, "classes_SING": 42, "classes_CLICK_OR_SING": 33, "classes_ALL": 23}
+{"n": 7, "connected": 1650, "classes_CLICK": 345, "classes_SING": 304, "classes_CLICK_OR_SING": 216, "classes_ALL": 117}
+{"n": 8, "connected": 14512, "classes_CLICK": 3699, "classes_SING": 3241, "classes_CLICK_OR_SING": 2327, "classes_ALL": 1284}

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite it as below, together with the paper."
+title: "UDE-posets: code and data for 'Derived equivalences between diagram categories of finite posets'"
+type: software
+authors:
+  - family-names: Ascenzi
+    given-names: Chiara
+    orcid: "https://orcid.org/0009-0005-6520-1975"
+    affiliation: "Tampere University"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/chiara-ascenzi/UDE-posets"
+abstract: >-
+  Python code and data for the paper "Derived equivalences between diagram
+  categories of finite posets": admissible cuts of finite posets, the
+  equivalence relation they generate on all posets with at most nine
+  elements, its comparison with derived invariants, and the list of its
+  classes on connected posets.
+keywords:
+  - finite posets
+  - universal derived equivalence
+  - incidence algebras
+  - admissible cuts
+  - Coxeter polynomial

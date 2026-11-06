@@ -1,0 +1,9 @@
+n = 1: 1 connected posets, 1 classes
+n = 2: 1 connected posets, 1 classes
+n = 3: 3 connected posets, 1 classes; classes and labels agree with gen_appendix.py
+n = 4: 10 connected posets, 3 classes; classes and labels agree with gen_appendix.py
+n = 5: 44 connected posets, 6 classes; classes and labels agree with gen_appendix.py
+n = 6: 238 connected posets, 23 classes; classes and labels agree with gen_appendix.py
+n = 7: 1650 connected posets, 117 classes
+n = 8: 14512 connected posets, 1284 classes
+n = 9: 163341 connected posets, 21197 classes

@@ -1,0 +1,10 @@
+posets loaded: {1: 1, 2: 2, 3: 5, 4: 16, 5: 63, 6: 318, 7: 2045}
+  [ok] Example 3.7: T3 = A|_|B admissible, M(a)={5}, T3^- is an orientation of D5
+  [ok] (a),(b) hold, (c) fails; the candidate P^- is not a partial order
+  [ok] Example 3.9: M(a1)={b1,b2,b3}, M(a2)={b1,b2}, P^- = P^op
+  [ok] Corollary 3.8 on all 257 posets of height <= 1 with n <= 7
+  [ok] Proposition 4.1 / Corollary 4.2 on 5928 (poset, source) pairs, 3651 admissible
+  [ok] Proposition 3.4, Corollary 3.11 and |M(a)| = |M(a')| for a <= a' on all 17210 nontrivial admissible cuts with n <= 7
+  [ok] canonical forms invariant under 687 random relabellings
+  [ok] Theorem 3.2 (both directions and uniqueness B_a = M(a)) by brute force: 21864 partitions, 5914080 families, n <= 6
+all tests passed in 13.9 s
